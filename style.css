@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+.page{
+    height: 100vh;
+    background: rgb(243, 242, 242);
+    
+}
+.bac{
+    background-color: rgb(227, 123, 140);
+    width: 200px;
+    height: 100vh;
+   margin-left: 700px;
+}
+ 
+ 
+    
+.content{
+     
+    background-color: black;
+    width: 278px;
+    height: 170px;
+    color: #fff;
+     top: 8%;
+    left: 35%;
+  text-align: left;
+  position: absolute;
+ padding: 20px;
+  
+  
+}
+.content  h4{
+    color: rgb(210, 213, 216);
+    margin-bottom: 10px;
+    opacity: 3;
+    font-weight: 100;
+    margin-top: 15px;
+}
+.content   h1{
+  font-weight: 200;
+  margin-bottom: 20px;
+  opacity: 4;
+  font-size: 5vmin;
+}
+.content   h6{
+    color: rgb(210, 213, 216);
+    font-weight: 100;
+    
+    
+  }
+  .content   h6 span{
+    border-bottom: 2px solid rgb(210, 213, 216);
+
+  }
+.image{
+    width: 350px;
+    height: 310px;
+    margin-left: 31px;
+     position: absolute;
+     top: 16%;
+  
+    
+}
+
+.content2{
+    background-color: #fff;
+    margin-left: 100px;
+    width: 320px;
+    height: 270px;
+   position:absolute;
+   top: 43%;
+   left: 5%;
+   margin-left:390px;
+   padding: 20px;
+    font-size: 2vmin;
+    
+}
+ .content2  h5{
+    color: rgb(185, 189, 193);
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.content2  h4{
+opacity: 3;
+font-weight: 200;
+margin-bottom: 5px;
+font-style: bold;
+}
+.content2  h4 span{
+    opacity: 3;
+    font-weight: 800;
+    color: rgb(227, 123, 140);
+     
+    }
+    .content2  h6{
+        color: rgb(185, 189, 193);
+        margin-top: 15px;
+         
+    }
+    .content2  button{
+        padding: 10px 25px;
+        border: none;
+        margin-top: 20px;
+        font-size: 2vmin;
+        opacity: 3;
+    }
+    .content2   h6 span{
+        border-bottom: 2px solid rgb(42, 42, 43);
+    
+      }
